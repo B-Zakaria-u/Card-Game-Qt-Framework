@@ -17,7 +17,6 @@ Installation
 Windows
 Download the installer from the releases page.
 Run the installer and follow the on-screen instructions.
-Download the /Gamefolder/CardGameQt/Assets Folder and put it in your desktop
 Launch the game.
 
 
